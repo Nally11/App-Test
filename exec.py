@@ -1,1 +1,1 @@
-#go time
+#go tim
